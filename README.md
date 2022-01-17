@@ -1,5 +1,3 @@
 # ሰላም 👋🏾 Hello
 
-[![linkedin](https://img.shields.io/badge/linkedin-linkedin-blue&logo=LinkedIn)](https://www.linkedin.com/in/yonas-g/)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+[![linkedin](https://img.shields.io/badge/linkedin-linkedin-blue&logo=LinkedIn)](https://www.linkedin.com/in/yonas-g/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
